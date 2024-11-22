@@ -42,8 +42,3 @@ Ensure you have the following installed:
 - NumPy  
 - Matplotlib  
 
-### **Installation**  
-Clone the repository:  
-```bash
-git clone https://github.com/your-username/SkinFusionNet.git
-cd SkinFusionNet
