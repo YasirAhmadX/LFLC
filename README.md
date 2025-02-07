@@ -16,10 +16,8 @@ SkinFusionNet is a hybrid deep learning model combining Convolutional Neural Net
 ## 📊 **Performance**  
 - **Dataset**: ISIC 2024 subset  
 - **Key Metrics**:  
-  - Accuracy: *Insert Value*  
-  - Precision: *Insert Value*  
-  - Recall: *Insert Value*  
-  - F1 Score: *Insert Value*  
+  - Accuracy: *98.11*  
+  - F1 Score: *98.11*  
 
 ---
 
